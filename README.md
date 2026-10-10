@@ -1,2 +1,2 @@
 # LizaShops
-This is liza shops
+It's Liza Shoping Website.
